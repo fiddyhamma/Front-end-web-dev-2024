@@ -1,0 +1,5 @@
+Day 2. Using jQuery for DOM manipulation
+Lesson reference:
+Javascript Course for Beginners by Ivan Lourenço Gomes
+https://www.tutorialspoint.com/jquery/jquery-dom.htm
+https://www.w3schools.com/js/js_jquery_dom.asp

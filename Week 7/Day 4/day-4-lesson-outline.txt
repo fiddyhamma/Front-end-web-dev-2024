@@ -1,0 +1,6 @@
+Day 4. Creating asynchronous code with Promises and Async/Await
+Lesson reference:
+https://www.w3schools.com/js/js_callback.asp
+https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/
+https://www.w3schools.com/js/js_promise.asp
+https://www.w3schools.com/js/js_async.asp

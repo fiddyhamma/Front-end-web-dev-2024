@@ -1,0 +1,4 @@
+Day 3. Introduction to ES6 syntax
+Lesson reference:
+https://www.w3schools.com/js/js_es6.asp
+ES6 tutorial

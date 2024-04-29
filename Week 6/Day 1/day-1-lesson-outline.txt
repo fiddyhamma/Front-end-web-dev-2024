@@ -1,0 +1,9 @@
+Week 6 Advanced JavaScript
+
+Day 1. Event handling and DOM manipulation with JavaScript
+Lesson reference:
+Javascript Course for Beginners by Ivan Lourenço Gomes
+https://www.w3schools.com/js/js_events.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
+https://www.freecodecamp.org/news/dom-manipulation-in-javascript/
