@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+    width: 800px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 250px;
+    height: 350px;
+    border: 2px solid blue;
+
+}
+
+.emoji_closed_active{
+    font-size: 100px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.emoji_open{
+    font-size: 100px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+@media only screen and (min-width: 990px) {
+    body{
+        background-color: grey;
+        width: 1200px;
+        height: 600px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .container{
+        width: 550px;
+        height: 500px;
+        border: 2px solid blue;
+        margin-left: 32%;
+    }
+    
+    .emoji_closed_active{
+        font-size: 150px;
+        margin-left: 170px;
+        margin-top: 20px;
+    }
+    
+    .emoji_open{
+        font-size: 150px;
+        margin-left: 170px;
+        margin-top: 20px;
+        display: none;
+    }
+}
